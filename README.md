@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masterasel96
-- 👀 I’m interested in JavaScript development with React, Angular and NodeJS.
+- 👀 I’m interested in JavaScript development with TypeScript and NodeJS.
 - 📫 How to reach me jjtm1996@gmail.com
 
 <!---
